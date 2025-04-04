@@ -48,11 +48,7 @@ To view the project locally, follow these steps:
     cd Portfolio Project
     ```
 
-3.  Open the `index.html` file in your browser:
-
-    ```bash
-    npm start
-    ```
+3.  Open the `index.html` file in your browser
 
 ## Usage
 
