@@ -71,8 +71,8 @@ Feel free to fork this repository, create an issue, or submit a pull request if 
 You can reach me through:
 
 -   Email: kamaustacywaithera@example.com
--   LinkedIn: [https://www.linkedin.com/in/stacy-kamau-753148267/](My LinkedIn Profile)
--   GitHub: [https://github.com/stacy-wk](My GitHub Profile)
+-   LinkedIn: [https://www.linkedin.com/in/stacy-kamau-753148267/] (My LinkedIn Profile)
+-   GitHub: [https://github.com/stacy-wk] (My GitHub Profile)
 
 
 
