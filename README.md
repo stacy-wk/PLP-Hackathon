@@ -39,13 +39,13 @@ To view the project locally, follow these steps:
 1.  Clone this repository:
 
     ```bash
-    git clone [https://github.com/stacy-wk/PLP-Hackathon.git](https://github.com/stacy-wk/PLP-Hackathon.git)
+    git clone https://github.com/stacy-wk/PLP-Hackathon.git
     ```
 
 2.  Navigate to the project folder:
 
     ```bash
-    cd portfolio-project
+    cd Portfolio Project
     ```
 
 3.  Open the `index.html` file in your browser:
